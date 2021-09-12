@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Michael Tang
+# FILENAME: find_s.py
+# SPECIFICATION: Impementing the Find S Algorithm with the given data from the contact_lens.csv file.
 # FOR: CS 4200- Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 30 Minutes
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
