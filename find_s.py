@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Michael Tang
 # FILENAME: find_s.py
-# SPECIFICATION: Impementing the Find S Algorithm with the given data from the contact_lens.csv file.
+# SPECIFICATION: Implementing the Find S Algorithm with the given data from the contact_lens.csv file.
 # FOR: CS 4200- Assignment #1
 # TIME SPENT: 30 Minutes
 #-----------------------------------------------------------*/
